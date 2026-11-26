@@ -2,17 +2,21 @@
 
 <h1 align="center">Ground HF Logbook</h1>
 <p align="center"><strong>Native macOS Amateur Radio Logging</strong><br>Built for the hobby. Designed for Apple Silicon.</p>
-<p align="center"><img src="https://img.shields.io/badge/macOS-27.2%2B-blue" alt="macOS 27.2+"> <img src="https://img.shields.io/badge/Apple%20Silicon-ARM64-blue" alt="ARM64"> <img src="https://img.shields.io/badge/v1.0.0-Pre--release-orange" alt="Pre-release"></p>
+<p align="center"><img src="https://img.shields.io/badge/macOS-27.2%2B-blue" alt="macOS 27.2+"> <img src="https://img.shields.io/badge/Apple%20Silicon-ARM64-blue" alt="ARM64"> <img src="https://img.shields.io/badge/v1.0.0-Public%20Beta-orange" alt="Public Beta"></p>
 
-## Download — v1.0.0
+## Official downloads — v1.0.0 Public Beta
 
-Public evaluation pre-release for Apple Silicon Macs running macOS 27.2 or later.
+For Apple Silicon Macs running macOS 27.2 or later. Download directly from this table; these are the seven official distribution files.
 
-| File | Download |
+| File | Direct download |
 |---|---|
-| DMG installer (recommended) | **[Download Ground HF Logbook](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/releases/download/v1.0.0/Ground-HF-Logbook-v1.0.0.dmg)** |
-| ZIP application | [Download ZIP](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/releases/download/v1.0.0/Ground-HF-Logbook-v1.0.0.zip) |
-| SHA-256 checksums | [DMG](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/releases/download/v1.0.0/Ground-HF-Logbook-v1.0.0.dmg.sha256) · [ZIP](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/releases/download/v1.0.0/Ground-HF-Logbook-v1.0.0.zip.sha256) |
+| DMG installer · recommended | **[Download DMG (7.93 MB)](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/releases/download/v1.0.0/Ground-HF-Logbook-v1.0.0.dmg)** |
+| ZIP application | [Download ZIP (7.06 MB)](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/releases/download/v1.0.0/Ground-HF-Logbook-v1.0.0.zip) |
+| Installation and Gatekeeper guide | [PDF](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/releases/download/v1.0.0/Ground-HF-Logbook-v1.0.0-Gatekeeper-Installation.pdf) |
+| Complete user guide | [PDF](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/releases/download/v1.0.0/Ground-HF-Logbook-v1.0.0-User-Guide.pdf) |
+| Release notes | [PDF](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/releases/download/v1.0.0/Ground-HF-Logbook-v1.0.0-Release-Notes.pdf) |
+| DMG verification | [SHA-256 checksum](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/releases/download/v1.0.0/Ground-HF-Logbook-v1.0.0.dmg.sha256) |
+| ZIP verification | [SHA-256 checksum](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/releases/download/v1.0.0/Ground-HF-Logbook-v1.0.0.zip.sha256) |
 
 **Important:** The application is ad-hoc signed and unnotarised; the DMG is unsigned. Gatekeeper rejected the quarantined app in local testing. Read the [installation guide](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/releases/download/v1.0.0/Ground-HF-Logbook-v1.0.0-Gatekeeper-Installation.pdf) before installing. If macOS blocks the app, verify the checksum and follow Apple's per-app Open Anyway procedure if available. If macOS reports damage, offers Move to Bin or provides no override, stop and report the exact message. Keep Gatekeeper enabled.
 
@@ -37,10 +41,7 @@ Local release testing covered clean first launch, update preservation, manual lo
 
 ## Documentation
 
-- [Complete User Guide](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/releases/download/v1.0.0/Ground-HF-Logbook-v1.0.0-User-Guide.pdf)
-- [Installation and Gatekeeper Guide](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/releases/download/v1.0.0/Ground-HF-Logbook-v1.0.0-Gatekeeper-Installation.pdf)
-- [Release Notes](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/releases/download/v1.0.0/Ground-HF-Logbook-v1.0.0-Release-Notes.pdf)
-- [Release history](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/releases)
+The three PDF guides are available directly from the downloads table above. The application also includes offline Help.
 
 ## Future development
 
