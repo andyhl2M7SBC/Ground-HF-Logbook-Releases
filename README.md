@@ -39,6 +39,12 @@ Ground HF Logbook is an independent native macOS amateur radio logging applicati
 
 Local release testing covered clean first launch, update preservation, manual logging, ADIF and synthetic TCI/UDP traffic. Wider live radio, lookup and mapping verification remains pending.
 
+## Application preview
+
+![Ground HF Logbook interface with illustrative sample records](Artwork/Ground-HF-Logbook-demo.png)
+
+*Application interface with fictional demonstration rows. No personal station details or real contacts are shown.*
+
 ## Documentation
 
 The three PDF guides are available directly from the downloads table above. The application also includes offline Help.
