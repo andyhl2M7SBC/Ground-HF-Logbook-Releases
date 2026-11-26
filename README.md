@@ -1,3 +1,5 @@
+<p align="center"><img src="Artwork/GroundHFLogbook-512.png" width="200" alt="Ground HF Logbook logo"></p>
+
 <h1 align="center">Ground HF Logbook</h1>
 <p align="center"><strong>Native macOS Amateur Radio Logging</strong><br>Built for the hobby. Designed for Apple Silicon.</p>
 <p align="center"><img src="https://img.shields.io/badge/macOS-27.2%2B-blue" alt="macOS 27.2+"> <img src="https://img.shields.io/badge/Apple%20Silicon-ARM64-blue" alt="ARM64"> <img src="https://img.shields.io/badge/v1.0.0-Pre--release-orange" alt="Pre-release"></p>
