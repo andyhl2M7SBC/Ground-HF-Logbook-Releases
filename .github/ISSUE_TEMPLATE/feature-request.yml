@@ -1,0 +1,20 @@
+name: Request a feature
+description: Suggest an improvement for Ground HF Logbook
+title: "[Feature] "
+body:
+  - type: markdown
+    attributes:
+      value: "Reports are public. Leave out credentials, station information and log data."
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Operating workflow
+      description: What would you like to do, and how do you handle it now?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Suggested improvement
+    validations:
+      required: true
