@@ -1,0 +1,26 @@
+name: Report a bug
+description: Report a reproducible issue in Ground HF Logbook
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Reports are public. Remove credentials, station information and log data from text, logs and screenshots."
+  - type: input
+    id: versions
+    attributes:
+      label: Ground HF Logbook version and macOS version
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include the affected feature and any redacted error messages.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Expected and observed behaviour
+    validations:
+      required: true
