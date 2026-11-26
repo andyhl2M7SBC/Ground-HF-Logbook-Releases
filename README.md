@@ -53,8 +53,6 @@ The three PDF guides are available directly from the downloads table above. The 
 
 Proposed developments include online logging and electronic QSL services, enhanced statistics and awards tracking, backup and recovery improvements, contest logging, and further integration with the Ground HF software family. These are plans, not promised features or deadlines.
 
-**Optional installation confirmation (planned):** Offer an explicitly opt-in, anonymous first-launch confirmation to help measure successful application launches independently of download counts. No confirmation requests before consent; no callsigns, QSO records, credentials, station details or persistent device identifiers collected. Design the service to minimise retained network metadata and prevent duplicate counts where practical. Declining must not affect functionality. This is a proposed feature, not present in v1.0.0.
-
 ## Support
 
 - [Report a bug](https://github.com/andyhl2M7SBC/Ground-HF-Logbook-Releases/issues/new?template=bug-report.yml)
